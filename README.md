@@ -73,11 +73,8 @@ Vatsalya Mitra Nimmagadda
 Final Year B.Tech Student – Computer Science (AI & ML)
 GitHub: @vasu-vasuki
 
-📎 License
-This project is for educational and demonstration purposes only
----
 
-## ✅ Instructions to Use
+# ✅ Instructions to Use
 
 1. Open Notepad or VS Code.
 2. Paste the entire text above into a new file.
